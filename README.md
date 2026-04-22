@@ -212,8 +212,8 @@ User
 B.Tech CSE | Data Science & AI Enthusiast
 
 * GitHub: https://github.com/amankataria100
-* LinkedIn: https://linkedin.com/in/aman-kataria
-
+* LinkedIn: [https://linkedin.com/in/aman-kataria
+](https://www.linkedin.com/in/aman-kataria-7a8405257/)
 ---
 
 ## ⭐ Conclusion
